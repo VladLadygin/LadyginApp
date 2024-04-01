@@ -1,16 +1,16 @@
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import VKapp from './components/VKapp.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    VKapp
   }
 }
 </script>
 
 <template>
   <div id="app">
-    <HelloWorld />
+    <VKapp />
   </div>
 </template>
 
